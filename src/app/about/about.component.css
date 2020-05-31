@@ -1,0 +1,94 @@
+.aboutbanner-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+    width: 100%;
+    height: 400px;  
+    background-image: url();
+    object-fit: cover;
+    margin-bottom: 25px;
+}
+
+.mission-title{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.mission-container{
+
+}
+.mission-desc{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ 
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 25px;
+    color: grey;
+}
+.divider{
+    display: flex;
+    justify-content: center;
+}
+.divider-line{
+    height: 1px;
+    width: 80%;
+    background-color: grey;
+    margin-bottom: 25px;
+
+} 
+.team-title{
+    display:flex;
+    align-items: center;
+    justify-content: center; 
+}
+.team-container{
+
+} 
+.team-desc{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 25px;
+    color: grey;
+}
+.profile-section{
+    display: flex;
+    
+    margin-bottom: 25px;
+    justify-content: center;
+    height: 300px;
+    
+} 
+.profile-name{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.profile-image{
+    display: flex;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px 10px grey;
+   
+    
+  
+}
+.name-desc{
+    color: grey;
+}

@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~swiper/dist/css/swiper.min.css';
+@import "~mapbox-gl/dist/mapbox-gl.css";
+@import "~@mapbox/mapbox-gl-geocoder/lib/mapbox-gl-geocoder.css";
+@import '~@ngx-share/button/themes/default/default-theme';
+body{
+   
+    font-family: 'Bai Jamjuree', sans-serif;
+
+color: #444
+}
+*:focus{
+    outline:none !important;
+    border: 0 !important;
+}
+
