@@ -34,7 +34,7 @@
     "jw-angular-social-buttons": "^1.0.0",
     "mapbox-gl": "^0.54.0",
     "ngx-facebook": "^2.4.0",
-    "ngx-mapbox-gl": "^4.1.0",
+    "ngx-mapbox-gl": "^10.0.0",
     "ngx-swiper-wrapper": "^8.0.2",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.6",
-    "@angular/cli": "~8.3.6",
+    "@angular/cli": "~16.1.4",
     "@angular/compiler-cli": "~8.2.8",
     "@angular/language-service": "~8.2.8",
     "@types/jasmine": "~3.3.8",
